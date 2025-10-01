@@ -23,7 +23,7 @@
 
 &trans          &trans  &kp LGUI    &kp LALT   &trans                           &trans  &kp LBKT     &kp RBKT  &trans     &trans 
 
-                     &mt 1 SPACE    &mo 2      &mkp LCLK                &mkp LCLK  &mo 2       &mt 1 SPACE
+                     &lt 1 SPACE    &mo 2      &mkp LCLK                &mkp LCLK  &mo 2       &lt 1 SPACE
                      &mt LCMD RET   &kp SPACE  &mkp RCLK                &mkp RCLK  &kp SPACE   &mt RCMD RET
 
         >; };
